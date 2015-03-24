@@ -13,11 +13,14 @@ public class JavonetLoggingAppMain {
 		// Before running this sample please make sure
 		// that:
 		//
+		//------------- POINT 1) IS IMPORTANT ----------------------
 		// 1) You have downloaded and added to references 
-		// the latest version of Javonet JAR
+		// the LATEST VERSION of Javonet JAR
 		//
 		// Latest Javonet release can be obtained from: 
 		// https://www.javonet.com/download/
+		//
+		//---------------------------------------------------------
 		//
 		// 2) You have updated Javonet.activate method arguments
 		// by replacing default email address and license key with 
